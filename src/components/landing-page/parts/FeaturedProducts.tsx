@@ -5,32 +5,32 @@ const FeaturedProductsConatnts = [
   {
     title: "Printed T-shirt",
     price: 599,
-    src: "/public/featured/1.jpg",
+    src: "/featured/1.jpg",
   },
   {
     title: "Printed T-shirt",
     price: 599,
-    src: "/public/featured/2.jpg",
+    src: "/featured/2.jpg",
   },
   {
     title: "Printed T-shirt",
     price: 599,
-    src: "/public/featured/3.jpg",
+    src: "/featured/3.jpg",
   },
   {
     title: "Printed T-shirt",
     price: 599,
-    src: "/public/featured/4.jpg",
+    src: "/featured/4.jpg",
   },
   {
     title: "Printed T-shirt",
     price: 599,
-    src: "/public/featured/5.jpg",
+    src: "/featured/5.jpg",
   },
   {
     title: "Printed T-shirt",
     price: 599,
-    src: "/public/featured/6.jpg",
+    src: "/featured/6.jpg",
   },
 ];
 
